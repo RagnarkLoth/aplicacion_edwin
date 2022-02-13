@@ -1,0 +1,52 @@
+{
+    "pilares": [
+        {
+            "id": "1",
+            "nombre": "Giyu Tomioka",
+            "ruta": "/agua",
+            "respiracion": "Agua",
+            "imagen_vivo": "https://assets.puzzlefactory.pl/puzzle/258/294/original.jpg",
+            "imagen_mal_herido":  "https://pm1.narvii.com/7874/4c69af490b14ca3648d2cb29259176f986a53d38r1-273-273v2_hq.jpg"
+        },
+        {
+            "id": "2",
+            "nombre": "Mitsuri Kanroji",
+            "ruta": "/amor",
+            "respiracion": "Amor",
+            "imagen_vivo": "http://pm1.narvii.com/7552/67eab66c2e7912f18e900398eb8b48eb4c2a0421r1-983-1330v2_uhq.jpg",
+            "imagen_mal_herido":  "https://www.latercera.com/resizer/N0doy3H6u4Q4d39DySBSOM-VdnY=/800x0/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/IPLTSXHT3JEY3FFOZZ463RMUZA.jpg"
+        },
+        {
+            "id": "3",
+            "nombre": "Obanai Iguro",
+            "ruta": "/serpiente",
+            "respiracion": "Serpiente",
+            "imagen_vivo": "https://www.geekmi.news/__export/1622985929857/sites/debate/img/2021/06/06/obanai-1.jpg_467115048.jpg",
+            "imagen_mal_herido":  "http://pm1.narvii.com/7814/9ca69b631aee043b6b8fa7bf08337f60d19efe70r1-735-554v2_uhq.jpg"
+        },
+        {
+            "id": "4",
+            "nombre": "Sanemi Shinazugawa",
+            "ruta": "/viento",
+            "respiracion": "Viento",
+            "imagen_vivo": "https://animeargentina.net/wp-content/uploads/2021/11/Sanemi-Shinazugawa-1024x576.jpg",
+            "imagen_mal_herido":  "https://64.media.tumblr.com/65ec3191755d6a11408a35ad95668d99/accf513bfa4d651f-94/s640x960/527e92dc531c517f23f9ee368c94ddf0fea6e4c4.png"
+        },
+        {
+            "id": "5",
+            "nombre": "Gyomei Himejima",
+            "ruta": "/roca",
+            "respiracion": "Roca",
+            "imagen_vivo": "https://depor.com/resizer/makzNKbK1k1IHXgfU6Giv6bdBOA=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2IZQRSXN3NHC5IL3UARQJHFFII.jpg",
+            "imagen_mal_herido":  "https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/QCT7LMJMYVD4XKQ23G3BDIYJSU.png"
+        },
+        {
+            "id": "6",
+            "nombre": "Tengen Uzui",
+            "ruta": "/sonido",
+            "respiracion": "Sonido",
+            "imagen_vivo": "https://www.geekmi.news/__export/1638130286596/sites/debate/img/2021/11/28/uzui-1.jpg_242310155.jpg",
+            "imagen_mal_herido":  "https://pm1.narvii.com/7595/f1ca58f41d102b547b241c664bb449f7d389ac89r1-732-1087v2_hq.jpg"
+        }
+    ]
+}

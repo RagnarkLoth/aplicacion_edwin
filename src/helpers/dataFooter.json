@@ -1,0 +1,52 @@
+{
+    "pilares": [
+        {
+            "id": "7",
+            "nombre": "Muichiro Tokito",
+            "ruta": "/niebla",
+            "respiracion": "Niebla",
+            "imagen_vivo": "https://i.pinimg.com/736x/c7/e7/75/c7e775125e3ea593e82898b753bafc5c.jpg",
+            "imagen_mal_herido":  "https://i.pinimg.com/originals/63/1e/9c/631e9c0128017db93ad48040b0943386.jpg"
+        },
+        {
+            "id": "8",
+            "nombre": "Shinobu Kocho",
+            "ruta": "/insecto",
+            "respiracion": "Insecto",
+            "imagen_vivo": "https://areajugones.sport.es/wp-content/uploads/2021/05/imagen-2021-05-29-114734-1080x609.jpg",
+            "imagen_mal_herido":  "https://pbs.twimg.com/media/Dyvd4l2V4AA9ljb.jpg"
+        },
+        {
+            "id": "9",
+            "nombre": "Kyojuro Rengoku",
+            "ruta": "/llama",
+            "respiracion": "Llama",
+            "imagen_vivo": "https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-kyojuro-rengoku-image-12-768x1024.jpg",
+            "imagen_mal_herido":  "https://www.theanimedaily.com/wp-content/uploads/2021/09/EnDhLuFXEAEFXZf.jpg"
+        },
+        {
+            "id": "10",
+            "nombre": "Kanae Kocho",
+            "ruta": "/flor",
+            "respiracion": "Flor",
+            "imagen_vivo": "https://i.pinimg.com/550x/5d/62/3e/5d623e3cb63e387661b8513c4e6d44c5.jpg",
+            "imagen_mal_herido":  "https://i.pinimg.com/236x/a4/44/2c/a4442cdc0913c323677c6d58cfdcc567.jpg"
+        },
+        {
+            "id": "11",
+            "nombre": "Sakonji Urokodaki",
+            "ruta": "/ex-agua",
+            "respiracion": "Agua",
+            "imagen_vivo": "https://regionps.com/wp-content/uploads/2021/04/Demon-Slayer-Game-Jump_04-15-21.jpg",
+            "imagen_mal_herido":  "https://a-static.besthdwallpaper.com/demon-slayer-sakonji-urokodaki-papel-pintado-1024x768-71805_18.jpg"
+        },
+        {
+            "id": "12",
+            "nombre": "Jigoro Kuwajima",
+            "ruta": "/rayo",
+            "respiracion": "Rayo",
+            "imagen_vivo": "https://ami.animecharactersdatabase.com/uploads/chars/1-261580217.png",
+            "imagen_mal_herido":  "https://pm1.narvii.com/7536/ddbb046701a1395d0261b7d92ac21b5f56a3ee63r1-851-315v2_hq.jpg"
+        }
+    ]
+}
